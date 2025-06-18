@@ -32,7 +32,7 @@ header {
   top: 0;
   left: 0;
   right: 0;
-  z-index: 9999;
+  z-index: 0;
   background-color: white; /* keep background */
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
@@ -179,7 +179,7 @@ nav button.cart::before {
   top: 55px; /* adjust this to your header height */
   left: 0;
   right: 0;
-  z-index: 9999;
+  z-index: 0;
   background-color: #fff5f5;
   /* padding: 20px 40px; */
   box-shadow: 0 8px 20px rgba(255,75,43,0.15);
@@ -383,7 +383,7 @@ main {
 
   .categories {
     padding: 14px 24px;
-    gap: 14px;
+    gap: 20px;
   }
 
   main {
@@ -515,8 +515,8 @@ main {
 
 
   .cart-sidebar {
-  position: fixed; 
-  top: 0;
+  position: absolute; 
+  top: 50%;
   right: 0;
   width: 400px;
   height: 100vh;
@@ -534,6 +534,7 @@ main {
 
 .cart-sidebar button.close-button,
 .cart-sidebar button.close-button svg {
+  z-index: 10000;
   font-size: 4rem; 
   color: black !important;
   fill: black !important;
