@@ -1,0 +1,562 @@
+[
+  {
+    "id": "1",
+    "name": "Hand-painted T-shirt",
+    "category": "T-shirts",
+    "price": "20",
+    "image": "https://images.unsplash.com/photo-1520975692077-8ab93a9169c3?auto=format&fit=crop&w=150&q=80",
+    "description": "100% cotton, hand-painted design"
+  },
+  {
+    "id": "2",
+    "name": "Silver Pendant",
+    "category": "Jewelry",
+    "price": "50",
+    "image": "https://images.unsplash.com/photo-1519181245277-cffeb31da1e7?auto=format&fit=crop&w=150&q=80",
+    "description": "Sterling silver, handcrafted"
+  },
+  {
+    "id": "3",
+    "name": "Wooden Ornament",
+    "category": "Ornaments",
+    "price": "15",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=150&q=80",
+    "description": "Eco-friendly carved wood"
+  },
+  {
+    "id": "4",
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": "120",
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=crop&w=150&q=80",
+    "description": "Noise-cancelling, Bluetooth 5.0"
+  },
+  {
+    "id": "5",
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": "700",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=150&q=80",
+    "description": "Latest model with AMOLED display"
+  },
+  {
+    "id": "6",
+    "name": "Kids T-shirt",
+    "category": "Kids Wears",
+    "price": "12",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=150&q=80",
+    "description": "Soft cotton kids t-shirt"
+  },
+  {
+    "id": "7",
+    "name": "Kids Jacket",
+    "category": "Kids Wears",
+    "price": "35",
+    "image": "https://images.unsplash.com/photo-1606312614726-452ff2110e1f?auto=format&fit=crop&w=150&q=80",
+    "description": "Warm and comfy jacket for kids"
+  },
+  {
+    "id": "8",
+    "name": "Smartwatch",
+    "category": "Gadgets",
+    "price": "150",
+    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=150&q=80",
+    "description": "Track fitness and notifications"
+  },
+  {
+    "id": "9",
+    "name": "Portable Charger",
+    "category": "Gadgets",
+    "price": "25",
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=150&q=80",
+    "description": "10,000 mAh fast charging power bank"
+  },
+  {
+    "id": "10",
+    "name": "Portable Charger",
+    "category": "Gadgets",
+    "price": "25",
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=150&q=80",
+    "description": "10,000 mAh fast charging power bank"
+  },
+  {
+    "id": "11",
+    "name": "Gold Hoop Earrings",
+    "category": "Jewelry",
+    "price": "80",
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=150&q=80",
+    "description": "Elegant 14k gold hoop earrings"
+  },
+  {
+    "id": "12",
+    "name": "Pearl Necklace",
+    "category": "Jewelry",
+    "price": "120",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=150&q=80",
+    "description": "Classic freshwater pearl necklace"
+  },
+  {
+    "id": "13",
+    "name": "Rose Gold Ring",
+    "category": "Jewelry",
+    "price": "90",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=150&q=80",
+    "description": "Delicate rose gold band ring"
+  },
+  {
+    "id": "14",
+    "name": "Turquoise Bracelet",
+    "category": "Jewelry",
+    "price": "45",
+    "image": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=150&q=80",
+    "description": "Handcrafted turquoise stone bracelet"
+  },
+  {
+    "id": "15",
+    "name": "Diamond Stud Earrings",
+    "category": "Jewelry",
+    "price": "300",
+    "image": "https://images.unsplash.com/photo-1522300053451-7e3130d7bb3e?auto=format&fit=crop&w=150&q=80",
+    "description": "Classic diamond stud earrings"
+  },
+  {
+    "id": "16",
+    "name": "Leather Choker",
+    "category": "Jewelry",
+    "price": "25",
+    "image": "https://images.unsplash.com/photo-1520975385189-bc37c30d8f08?auto=format&fit=crop&w=150&q=80",
+    "description": "Minimalist leather choker necklace"
+  },
+  {
+    "id": "17",
+    "name": "Silver Anklet",
+    "category": "Jewelry",
+    "price": "35",
+    "image": "https://images.unsplash.com/photo-1505253210340-5d1a92d962f1?auto=format&fit=crop&w=150&q=80",
+    "description": "Delicate silver anklet with charms"
+  },
+  {
+    "id": "18",
+    "name": "Gemstone Pendant",
+    "category": "Jewelry",
+    "price": "75",
+    "image": "https://images.unsplash.com/photo-1520975385178-1d7e8f1c4e38?auto=format&fit=crop&w=150&q=80",
+    "description": "Vibrant gemstone pendant necklace"
+  },
+  {
+    "id": "19",
+    "name": "Charm Bracelet",
+    "category": "Jewelry",
+    "price": "60",
+    "image": "https://images.unsplash.com/photo-1505714194107-194b8a85b6b7?auto=format&fit=crop&w=150&q=80",
+    "description": "Silver charm bracelet with unique charms"
+  },
+  {
+    "id": "20",
+    "name": "Boho Feather Earrings",
+    "category": "Jewelry",
+    "price": "40",
+    "image": "https://images.unsplash.com/photo-1520975692011-c1d98efbde3d?auto=format&fit=crop&w=150&q=80",
+    "description": "Lightweight bohemian feather earrings"
+  },
+  {
+    "id": "21",
+    "name": "Graphic Tee",
+    "category": "T-shirts",
+    "price": "18",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=150&q=80",
+    "description": "Cotton tee with bold graphic print"
+  },
+  {
+    "id": "22",
+    "name": "V-neck T-shirt",
+    "category": "T-shirts",
+    "price": "22",
+    "image": "https://images.unsplash.com/photo-1520975385188-f8a198137c7e?auto=format&fit=crop&w=150&q=80",
+    "description": "Soft cotton V-neck T-shirt"
+  },
+  {
+    "id": "23",
+    "name": "Striped T-shirt",
+    "category": "T-shirts",
+    "price": "20",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=150&q=80",
+    "description": "Classic striped casual tee"
+  },
+  {
+    "id": "24",
+    "name": "Pocket T-shirt",
+    "category": "T-shirts",
+    "price": "19",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=150&q=80",
+    "description": "Basic tee with chest pocket"
+  },
+  {
+    "id": "25",
+    "name": "Long Sleeve T-shirt",
+    "category": "T-shirts",
+    "price": "25",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=150&q=80",
+    "description": "Comfortable long sleeve cotton tee"
+  },
+  {
+    "id": "26",
+    "name": "Henley T-shirt",
+    "category": "T-shirts",
+    "price": "23",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=150&q=80",
+    "description": "Casual henley style T-shirt"
+  },
+  {
+    "id": "27",
+    "name": "Tie-dye T-shirt",
+    "category": "T-shirts",
+    "price": "20",
+    "image": "https://images.unsplash.com/photo-1520975385188-f8a198137c7e?auto=format&fit=crop&w=150&q=80",
+    "description": "Trendy tie-dye design"
+  },
+  {
+    "id": "28",
+    "name": "Graphic Logo T-shirt",
+    "category": "T-shirts",
+    "price": "21",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=150&q=80",
+    "description": "T-shirt with brand logo print"
+  },
+  {
+    "id": "29",
+    "name": "Crop Top T-shirt",
+    "category": "T-shirts",
+    "price": "18",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=150&q=80",
+    "description": "Casual crop top T-shirt"
+  },
+  {
+    "id": "30",
+    "name": "Performance T-shirt",
+    "category": "T-shirts",
+    "price": "28",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=150&q=80",
+    "description": "Moisture-wicking sports tee"
+  },
+  {
+    "id": "31",
+    "name": "Ceramic Vase",
+    "category": "Ornaments",
+    "price": "35",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=150&q=80",
+    "description": "Hand-painted ceramic vase"
+  },
+  {
+    "id": "32",
+    "name": "Glass Paperweight",
+    "category": "Ornaments",
+    "price": "20",
+    "image": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?auto=format&fit=crop&w=150&q=80",
+    "description": "Colorful glass paperweight"
+  },
+  {
+    "id": "33",
+    "name": "Hand-carved Wooden Box",
+    "category": "Ornaments",
+    "price": "50",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=150&q=80",
+    "description": "Decorative wooden keepsake box"
+  },
+  {
+    "id": "34",
+    "name": "Metal Lantern",
+    "category": "Ornaments",
+    "price": "30",
+    "image": "https://images.unsplash.com/photo-1468071174046-657d9d351a40?auto=format&fit=crop&w=150&q=80",
+    "description": "Rustic metal lantern for candles"
+  },
+  {
+    "id": "35",
+    "name": "Decorative Wall Plate",
+    "category": "Ornaments",
+    "price": "25",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=150&q=80",
+    "description": "Colorful decorative wall plate"
+  },
+  {
+    "id": "36",
+    "name": "Stone Sculpture",
+    "category": "Ornaments",
+    "price": "45",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=150&q=80",
+    "description": "Handcrafted stone sculpture"
+  },
+  {
+    "id": "37",
+    "name": "Vintage Clock",
+    "category": "Ornaments",
+    "price": "55",
+    "image": "https://images.unsplash.com/photo-1509395062183-67c5ad6faff9?auto=format&fit=crop&w=150&q=80",
+    "description": "Classic vintage style clock"
+  },
+  {
+    "id": "38",
+    "name": "Ceramic Figurine",
+    "category": "Ornaments",
+    "price": "18",
+    "image": "https://images.unsplash.com/photo-1513665329249-9e61d5a1aa93?auto=format&fit=crop&w=150&q=80",
+    "description": "Hand-painted ceramic figurine"
+  },
+  {
+    "id": "39",
+    "name": "Glass Ornament Set",
+    "category": "Ornaments",
+    "price": "40",
+    "image": "https://images.unsplash.com/photo-1514174414880-c6bc3d04a22b?auto=format&fit=crop&w=150&q=80",
+    "description": "Set of 3 decorative glass ornaments"
+  },
+  {
+    "id": "40",
+    "name": "Woven Basket",
+    "category": "Ornaments",
+    "price": "22",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=150&q=80",
+    "description": "Handwoven decorative basket"
+  },
+  {
+    "id": "41",
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": "80",
+    "image": "https://images.unsplash.com/photo-1512446733611-9099a758eaff?auto=format&fit=crop&w=150&q=80",
+    "description": "Portable Bluetooth speaker with deep bass"
+  },
+  {
+    "id": "42",
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": "1200",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "Lightweight laptop with 16GB RAM"
+  },
+  {
+    "id": "43",
+    "name": "4K Monitor",
+    "category": "Electronics",
+    "price": "400",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "27-inch 4K UHD monitor"
+  },
+  {
+    "id": "44",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": "25",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "Ergonomic wireless mouse"
+  },
+  {
+    "id": "45",
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": "90",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "RGB backlit mechanical keyboard"
+  },
+  {
+    "id": "46",
+    "name": "Gaming Console",
+    "category": "Electronics",
+    "price": "350",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "Latest generation gaming console"
+  },
+  {
+    "id": "47",
+    "name": "Action Camera",
+    "category": "Electronics",
+    "price": "200",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "Waterproof action camera 4K"
+  },
+  {
+    "id": "48",
+    "name": "VR Headset",
+    "category": "Electronics",
+    "price": "300",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "Immersive virtual reality headset"
+  },
+  {
+    "id": "49",
+    "name": "Smart Thermostat",
+    "category": "Electronics",
+    "price": "150",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "WiFi-enabled smart thermostat"
+  },
+  {
+    "id": "50",
+    "name": "Drone",
+    "category": "Electronics",
+    "price": "500",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "Quadcopter drone with 4K camera"
+  },
+  {
+    "id": "51",
+    "name": "Kids Hoodie",
+    "category": "Kids Wears",
+    "price": "20",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=150&q=80",
+    "description": "Cozy kids hoodie with print"
+  },
+  {
+    "id": "52",
+    "name": "Kids Sneakers",
+    "category": "Kids Wears",
+    "price": "30",
+    "image": "https://images.unsplash.com/photo-1523475496153-3c1d7e4a2af9?auto=format&fit=crop&w=150&q=80",
+    "description": "Lightweight kids sneakers"
+  },
+  {
+    "id": "53",
+    "name": "Kids Jeans",
+    "category": "Kids Wears",
+    "price": "25",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=150&q=80",
+    "description": "Durable kids denim jeans"
+  },
+  {
+    "id": "54",
+    "name": "Kids Raincoat",
+    "category": "Kids Wears",
+    "price": "28",
+    "image": "https://images.unsplash.com/photo-1520975385188-f8a198137c7e?auto=format&fit=crop&w=150&q=80",
+    "description": "Waterproof raincoat for kids"
+  },
+  {
+    "id": "55",
+    "name": "Kids Pajamas",
+    "category": "Kids Wears",
+    "price": "15",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=150&q=80",
+    "description": "Soft cotton pajamas for kids"
+  },
+  {
+    "id": "56",
+    "name": "Kids Cap",
+    "category": "Kids Wears",
+    "price": "10",
+    "image": "https://images.unsplash.com/photo-1520975692011-c1d98efbde3d?auto=format&fit=crop&w=150&q=80",
+    "description": "Adjustable kids baseball cap"
+  },
+  {
+    "id": "57",
+    "name": "Kids Gloves",
+    "category": "Kids Wears",
+    "price": "12",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=150&q=80",
+    "description": "Warm gloves for kids"
+  },
+  {
+    "id": "58",
+    "name": "Kids Socks",
+    "category": "Kids Wears",
+    "price": "8",
+    "image": "https://images.unsplash.com/photo-1520975385188-f8a198137c7e?auto=format&fit=crop&w=150&q=80",
+    "description": "Colorful cotton socks"
+  },
+  {
+    "id": "59",
+    "name": "Kids Backpack",
+    "category": "Kids Wears",
+    "price": "25",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=150&q=80",
+    "description": "Small backpack for kids"
+  },
+  {
+    "id": "60",
+    "name": "Kids Sunglasses",
+    "category": "Kids Wears",
+    "price": "15",
+    "image": "https://images.unsplash.com/photo-1520975385188-f8a198137c7e?auto=format&fit=crop&w=150&q=80",
+    "description": "UV protection sunglasses for kids"
+  },
+  {
+    "id": "61",
+    "name": "Fitness Tracker",
+    "category": "Gadgets",
+    "price": "70",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "Monitor your activity and sleep"
+  },
+  {
+    "id": "62",
+    "name": "Smart Home Hub",
+    "category": "Gadgets",
+    "price": "100",
+    "image": "https://images.unsplash.com/photo-1525976910028-92046f6f2bcf?auto=format&fit=crop&w=150&q=80",
+    "description": "Control smart devices easily"
+  },
+  {
+    "id": "63",
+    "name": "Wireless Earbuds",
+    "category": "Gadgets",
+    "price": "80",
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=crop&w=150&q=80",
+    "description": "Compact wireless earbuds"
+  },
+  {
+    "id": "64",
+    "name": "Portable SSD",
+    "category": "Gadgets",
+    "price": "120",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "Fast external solid-state drive"
+  },
+  {
+    "id": "65",
+    "name": "Smart Light Bulb",
+    "category": "Gadgets",
+    "price": "20",
+    "image": "https://images.unsplash.com/photo-1525976910028-92046f6f2bcf?auto=format&fit=crop&w=150&q=80",
+    "description": "Adjust brightness and colors via app"
+  },
+  {
+    "id": "66",
+    "name": "Bluetooth Tracker",
+    "category": "Gadgets",
+    "price": "15",
+    "image": "https://images.unsplash.com/photo-1513665329249-9e61d5a1aa93?auto=format&fit=crop&w=150&q=80",
+    "description": "Find your keys and wallet easily"
+  },
+  {
+    "id": "67",
+    "name": "Digital Camera",
+    "category": "Gadgets",
+    "price": "250",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "Compact digital camera with zoom"
+  },
+  {
+    "id": "68",
+    "name": "Smart Plug",
+    "category": "Gadgets",
+    "price": "25",
+    "image": "https://images.unsplash.com/photo-1525976910028-92046f6f2bcf?auto=format&fit=crop&w=150&q=80",
+    "description": "Control appliances remotely"
+  },
+  {
+    "id": "69",
+    "name": "Tablet Stand",
+    "category": "Gadgets",
+    "price": "15",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "Adjustable tablet stand for desk"
+  },
+  {
+    "id": "70",
+    "name": "VR Controller",
+    "category": "Gadgets",
+    "price": "90",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80",
+    "description": "Precision VR controller for gaming"
+  }
+]
