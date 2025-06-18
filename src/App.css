@@ -513,10 +513,24 @@ main {
     font-size: 0.85rem;
   }
 
+
   .cart-sidebar {
-    width: 100vw;
-    padding: 12px;
-  }
+  position: fixed; 
+  top: 0;
+  right: 0;
+  width: 400px;
+  height: 100vh;
+  background: white;
+  box-shadow: -8px 0 24px rgba(0, 0, 0, 0.1);
+  z-index: 10000; /* set higher than header */
+  overflow-y: auto;
+  transition: transform 0.3s ease;
+  transform: translateX(100%); /* hidden by default */
+}
+.cart-sidebar.open {
+  transform: translateX(0); /* shown when open */
+}
+
 
 .cart-sidebar button.close-button,
 .cart-sidebar button.close-button svg {
