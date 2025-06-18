@@ -33,7 +33,7 @@ useEffect(() => {
     setLoading(true);
     setError(null);
     try {
-      const res = await fetch('http://localhost:3001/productsData');
+      const res = await fetch('http://localhost:3000/productsData');
       if (!res.ok) throw new Error("Failed to fetch products.");
       const data = await res.json();
       setProductsData(data);
