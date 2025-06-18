@@ -28,15 +28,22 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-const API_URL = import.meta.env.MODE === 'development'
-  ? 'http://localhost:3000/products'
-  : '/products.json';
-
 useEffect(() => {
-  fetch(API_URL)
-    .then(res => res.json())
-    .then(data => setProducts(data))
-    .catch(err => console.error('Failed to load products', err));
+  async function fetchProducts() {
+    setLoading(true);
+    setError(null);
+    try {
+      const res = await fetch('http://localhost:3001/productsData');
+      if (!res.ok) throw new Error("Failed to fetch products.");
+      const data = await res.json();
+      setProductsData(data);
+    } catch (err) {
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
+  }
+  fetchProducts();
 }, []);
 
 
